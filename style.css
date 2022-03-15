@@ -1,0 +1,37 @@
+hr.new1 {
+  border-top: 1px dotted #000;
+  width: 92%;
+}
+.card-img-top {
+  height: 250px;
+  width: 250px;
+  margin: auto;
+  border: 1px solid #ccc;
+}
+.btn_1 {
+  width: 40px;
+  border: 1px solid #48cae4;
+  background-color: #dbe8f1;
+  border-radius: 5px;
+  margin: 0 5px;
+}
+.a_c00 {
+  width: 90%;
+  margin: auto;
+}
+.btn_lh {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.card-body {
+  background-color: #f2f2f2;
+  margin-top: 10px;
+}
+.nav-tabs {
+  margin-top: 5px;
+}
+.nav-tabs .nav-link {
+  background-color: #dbe8f1;
+  border: 1px solid #00b4d8;
+}
